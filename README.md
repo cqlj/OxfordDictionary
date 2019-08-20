@@ -14,5 +14,5 @@ You can find the result in the roots folder.
 * `root.py` takes the role for searching. Results will be in the folder `roots`.  
 >Don't delete `root.py` and `glossary.txt`. As for others, just do whatever as you like.
 
-## Words Remenbering
+## Words Remembering
 Take app '欧路词典' for help which supports finger-touch word search. And you can add any dictionary to it.
