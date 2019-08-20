@@ -13,3 +13,6 @@ You can find the result in the roots folder.
 * * And the py file generates the file  'glossary.txt', then take some regex replacements.
 * `root.py` takes the role for searching. Results will be in the folder `roots`.  
 >Don't delete `root.py` and `glossary.txt`. As for others, just do whatever as you like.
+
+## Words Remenbering
+Take app '欧路词典' for help which supports finger-touch word search. And you can add any dictionary to it.
